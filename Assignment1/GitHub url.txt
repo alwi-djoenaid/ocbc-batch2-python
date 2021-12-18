@@ -1,0 +1,8 @@
+-- Sesi 1
+https://github.com/alwi-djoenaid/ocbc-batch2-python/tree/master/Sesi1
+
+-- Sesi 2
+https://github.com/alwi-djoenaid/ocbc-batch2-python/tree/master/sesi2
+
+-- Assignment 1
+https://github.com/alwi-djoenaid/ocbc-batch2-python/tree/master/Assignment1
